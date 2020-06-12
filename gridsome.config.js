@@ -7,6 +7,8 @@ const theme = require('./src/data/theme.json')
 
 module.exports = {
   siteName: theme.site_name,
+  siteUrl: 'https://delvvince.github.io',
+  pathPrefix: '/delvvince.github.io',
   plugins: [
     {
       use: '@gridsome/source-filesystem',
