@@ -1,25 +1,22 @@
-const c1 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/vincent/2WWW/_DEV/delvvince.github.io/node_modules/gridsome/app/pages/404.vue")
-const c2 = () => import(/* webpackChunkName: "page--src--templates--project-vue" */ "/Users/vincent/2WWW/_DEV/delvvince.github.io/src/templates/Project.vue")
-const c3 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/Users/vincent/2WWW/_DEV/delvvince.github.io/src/pages/Index.vue")
-
 export default [
   {
     name: "404",
     path: "/404/",
-    component: c1
+    component: () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/vincent/2WWW/node_modules/gridsome/app/pages/404.vue")
   },
   {
     path: "/:slug/",
-    component: c2
+    component: () => import(/* webpackChunkName: "page--src--templates--project-vue" */ "/Users/vincent/2WWW/_DEV/delvvince.github.io/src/templates/Project.vue")
   },
   {
     name: "home",
     path: "/",
-    component: c3
+    component: () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/Users/vincent/2WWW/_DEV/delvvince.github.io/src/pages/Index.vue")
   },
   {
     name: "*",
     path: "*",
-    component: c1
+    component: () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/vincent/2WWW/node_modules/gridsome/app/pages/404.vue")
   }
 ]
+
