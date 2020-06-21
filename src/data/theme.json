@@ -1,0 +1,23 @@
+{
+  "site_name": "Delvvince Development",
+  "header_title": "Delvvince Developer Page",
+  "first_letter_only": true,
+  "email": "dev@vincentdelaleu.com",
+  "social": [
+    {
+      "channel": "twitter",
+      "handle": "delvvince",
+      "link_text": "tw"
+    },
+    {
+      "channel": "instagram",
+      "handle": "delvvince",
+      "link_text": "ig"
+    },
+    {
+      "channel": "github",
+      "handle": "delvvince",
+      "link_text": "gh"
+    }
+  ]
+}
