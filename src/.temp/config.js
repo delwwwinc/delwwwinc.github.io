@@ -1,7 +1,7 @@
 export default {
   "trailingSlash": true,
-  "pathPrefix": "/delvvince.github.io",
-  "titleTemplate": "%s - DPT",
+  "pathPrefix": "",
+  "titleTemplate": "%s - Delvvince Development",
   "siteUrl": "https://delvvince.github.io",
   "version": "0.7.17",
   "catchLinks": true

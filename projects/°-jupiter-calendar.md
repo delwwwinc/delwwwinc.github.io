@@ -1,9 +1,9 @@
 ---
-title: "° Jupiter Calendar"
+title: "Argil Data"
 thumbnail: "../static/uploads/827e4260883469.5a5cccc989703.jpg"
-year: "2018"
+year: "2017"
 categories:
-- graphic
+- development
 
 ---
 This project was created by [\[explicit\]](https://www.behance.net/explic_it), visit their Behance profile for more awesomeness.

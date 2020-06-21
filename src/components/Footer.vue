@@ -6,6 +6,7 @@
         class="channel"
         v-for="(social, index) in data.social"
         :key="index"
+        target="blank"
         :href="`https://${social.channel}.com/${social.handle}`"
       >
         {{ social.link_text }}

@@ -1,22 +1,22 @@
 {
-  "site_name": "DPT",
-  "header_title": "Darkfolio Portfolio Theme",
+  "site_name": "Delvvince Development",
+  "header_title": "Delvvince Developer Page",
   "first_letter_only": true,
-  "email": "nichlas@itsnwa.com",
+  "email": "hallo@vincentdelaleu.ch",
   "social": [
     {
       "channel": "twitter",
-      "handle": "nichlaswa",
+      "handle": "delvvince",
       "link_text": "tw"
     },
     {
       "channel": "instagram",
-      "handle": "its.nwa",
+      "handle": "delvvince",
       "link_text": "ig"
     },
     {
       "channel": "github",
-      "handle": "itsnwa",
+      "handle": "delvvince",
       "link_text": "gh"
     }
   ]

@@ -1,7 +1,7 @@
 ---
-title: Molecular Gastronomy
+title: Emanuel Ris
 thumbnail: '../static/uploads/25c51f70439237.5ba36d85ba934.jpg'
-year: '2019'
+year: '2018'
 categories:
   - identity
 ---
