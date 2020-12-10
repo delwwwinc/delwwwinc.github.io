@@ -1,0 +1,35 @@
+# The URL the site will be built for
+base_url = "https://delvvince.github.io/"
+theme = "hallo"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
+
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+[extra]
+# Put all your custom variables here
+greeting = "Aloha!"
+
+iam = "I am"
+
+links = [
+    { title = "E-Mail", url = "mailto:vincent@argil-data.ch", iconset = "fas", icon = "envelope" },
+    { title = "GitHub", url = "https://github.com/delvvince", icon = "github" },
+    { title = "GitLab", url = "https://gitlab.com/delvvince", icon = "gitlab" },
+    # { title = "Linkedin", url = "https://linkedin.com/in/vincentdelaleu", icon = "linkedin" },
+    { title = "Twitter", url = "https://twitter.com/delvvince", icon = "twitter" }
+]
+
+[extra.author]
+name = "Del Vvince"
+
+[extra.theme]
+background = "#0c0f63"
+foreground = "#FFF" # text and portrait border
+hover = "#333" # link hover

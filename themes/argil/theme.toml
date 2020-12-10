@@ -1,0 +1,18 @@
+name = "argil-zola"
+description = "Argil is an energy efficient and agile theme for Zola"
+license = "MIT"
+homepage = "https://github.com/argil-data/argil-zola"
+min_version = "0.1.0"
+demo = "https://argil-data.gitlab.com"
+
+[extra]
+
+[author]
+name = "Vincent Delaleu"
+homepage = "https://www.vincentdelaleu.com"
+repo = "https://gitlab.com/argil-data/argil-zola"
+
+#[original]
+#author =  "comfusion"
+#homepage = "https://git.habd.as/comfusion/after-dark/"
+#repo = "https://git.habd.as/comfusion/after-dark/"
