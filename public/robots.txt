@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://delvvince.github.io/sitemap.xml
