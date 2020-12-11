@@ -24,6 +24,7 @@ links = [
     { title = "GitHub", url = "https://github.com/delvvince", icon = "github" },
     { title = "GitLab", url = "https://gitlab.com/delvvince", icon = "gitlab" },
     # { title = "Linkedin", url = "https://linkedin.com/in/vincentdelaleu", icon = "linkedin" },
+    { title = "Instagram", url = "https://instagram.com/delvvince", icon = "instagram" },
     { title = "Twitter", url = "https://twitter.com/delvvince", icon = "twitter" }
 ]
 
