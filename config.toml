@@ -14,12 +14,13 @@ build_search_index = false
 
 [extra]
 # Put all your custom variables here
-greeting = "Aloha!"
+greeting = "Grüezi!"
 
 iam = "I am"
 
 links = [
-    { title = "E-Mail", url = "mailto:vincent@argil-data.ch", iconset = "fas", icon = "envelope" },
+    # { title = "E-Mail", url = "mailto:vincent@argil-data.ch", iconset = "fas", icon = "envelope" },
+    { title = "Developer Page", url = "https://delvvince.gitlab.io", iconset = "fas", icon = "globe" },
     { title = "GitHub", url = "https://github.com/delvvince", icon = "github" },
     { title = "GitLab", url = "https://gitlab.com/delvvince", icon = "gitlab" },
     # { title = "Linkedin", url = "https://linkedin.com/in/vincentdelaleu", icon = "linkedin" },
@@ -27,9 +28,9 @@ links = [
 ]
 
 [extra.author]
-name = "Del Vvince"
+name = "Vincent aka Delvvince"
 
 [extra.theme]
 background = "#0c0f63"
 foreground = "#FFF" # text and portrait border
-hover = "#333" # link hover
+hover = "#d6771d" # link hover
